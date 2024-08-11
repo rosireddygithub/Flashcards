@@ -1,0 +1,21 @@
+.flashcard-container {
+    display: flex;
+    flex-direction: column;
+    color:rgb(11, 142, 4);
+    background-color: rgb(115, 215, 215);
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.navigation-buttons {
+    margin-top: 20px;
+    
+}
+
+.navigation-buttons button {
+    margin: 0 10px;
+    color: rgb(23, 9, 80);
+    background-color: rgb(255, 221, 127);
+}
